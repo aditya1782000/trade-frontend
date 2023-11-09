@@ -8,13 +8,13 @@ function Root() {
       <Navigation />
       <main>
         <Outlet />
-        <div className={classes.description}>
-        <h1 className={classes.h1}>Welcome to Niner Traders</h1>
-            <p className={classes.p}>Niner Traders is the trading platform for trading 
-                electronic devices like mobile phones, tablets, laptops, 
-                headphones, moniters, and many more. Niner Traders will 
-                try to make your expreince smooth in the journey of electronic treding. </p>
-    </div>
+    //     <div className={classes.description}>
+    //     <h1 className={classes.h1}>Welcome to Niner Traders</h1>
+    //         <p className={classes.p}>Niner Traders is the trading platform for trading 
+    //             electronic devices like mobile phones, tablets, laptops, 
+    //             headphones, moniters, and many more. Niner Traders will 
+    //             try to make your expreince smooth in the journey of electronic treding. </p>
+    // </div>
       </main>
     </>
   );
